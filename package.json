@@ -1,0 +1,15 @@
+{
+  "name": "sleeptimer.exe",
+  "version": "1.0.0",
+  "description": "aplicacion para apagar o suspender el pc en un tiempo determinado",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Maikel MidnightBits Rey Álvarez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^24.3.0"
+  }
+}
